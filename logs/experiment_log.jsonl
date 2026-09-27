@@ -1,0 +1,144 @@
+{"timestamp": 1790426743.2366219, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
+{"timestamp": 1790426743.573195, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
+{"timestamp": 1790426744.119304, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790426749.7356858, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790426751.4682128, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790426788.1326756, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790426824.4147725, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790426826.7830236, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790426838.622993, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790427286.3367274, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
+{"timestamp": 1790427286.542788, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
+{"timestamp": 1790427287.0799365, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790427287.2975297, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790427307.1132338, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching cup'"}
+{"timestamp": 1790427307.4471035, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking cup'"}
+{"timestamp": 1790427309.8108757, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching toothbrush'"}
+{"timestamp": 1790427310.024094, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing cup'"}
+{"timestamp": 1790427312.409823, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing toothbrush'"}
+{"timestamp": 1790427317.9119153, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing dining table'"}
+{"timestamp": 1790427320.6104658, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790427320.7153978, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790427321.2591438, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790427321.3612242, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790427322.7612865, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790427322.8768802, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790427403.1491425, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790427403.2649198, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
+{"timestamp": 1790427420.0472999, "step_id": "step_2", "status": "repeated", "confidence": 0.85, "message": "Repeated step detected: 'Touch the bottle'"}
+{"timestamp": 1790427420.1529026, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
+{"timestamp": 1790427423.5465431, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
+{"timestamp": 1790427424.1981459, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790427424.7297046, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing dining table'"}
+{"timestamp": 1790427488.240174, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790427599.5753675, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790427600.8592513, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
+{"timestamp": 1790427601.3923702, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790427601.613045, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
+{"timestamp": 1790427608.4751298, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790427639.3714268, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790427639.4730456, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790427642.7204995, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
+{"timestamp": 1790427642.9374096, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
+{"timestamp": 1790427647.8028355, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790427666.899865, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790427667.5382848, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790427673.5824337, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790427675.9328346, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790427676.149317, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790427680.2800663, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790427713.5645206, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790427713.6780522, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790427747.6848578, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790427750.2724898, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching airplane'"}
+{"timestamp": 1790427755.6514602, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790427756.0703275, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing airplane'"}
+{"timestamp": 1790428245.9607291, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching cell phone'"}
+{"timestamp": 1790428247.5758116, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching refrigerator'"}
+{"timestamp": 1790428248.224402, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing cell phone'"}
+{"timestamp": 1790428251.5579853, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking refrigerator'"}
+{"timestamp": 1790428252.0924087, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790428254.1220272, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing refrigerator'"}
+{"timestamp": 1790428257.3753448, "step_id": "step_2", "status": "repeated", "confidence": 0.85, "message": "Repeated step detected: 'Touch the bottle'"}
+{"timestamp": 1790428257.5903404, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790428505.7055945, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
+{"timestamp": 1790428505.9129152, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
+{"timestamp": 1790428511.7072399, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing dining table'"}
+{"timestamp": 1790428533.1055884, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790428533.6501455, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
+{"timestamp": 1790428534.2849839, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
+{"timestamp": 1790428537.07139, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790428537.7347698, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing dining table'"}
+{"timestamp": 1790428823.0005202, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790428826.133279, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790428830.5335572, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790428830.6469822, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790428910.32046, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790428910.6535196, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
+{"timestamp": 1790428910.857009, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching cup'"}
+{"timestamp": 1790428910.9719918, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
+{"timestamp": 1790428914.3223863, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking cup'"}
+{"timestamp": 1790428916.037771, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790428916.1409414, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing dining table'"}
+{"timestamp": 1790428916.3553047, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790428922.9326336, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790428925.754043, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790428925.8675423, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
+{"timestamp": 1790428925.9697995, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
+{"timestamp": 1790428929.6004493, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching cup'"}
+{"timestamp": 1790428932.2834342, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790428932.8205848, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing cup'"}
+{"timestamp": 1790428933.7836952, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing dining table'"}
+{"timestamp": 1790428945.7219257, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790428953.5338445, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790428955.5844715, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790429159.4429095, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790429160.9748847, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790429168.473394, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching remote'"}
+{"timestamp": 1790429170.723858, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing remote'"}
+{"timestamp": 1790429172.6721478, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790429220.0440192, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790429222.212363, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790429223.6974494, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
+{"timestamp": 1790450175.1311545, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching unconfirmed: cell phone'"}
+{"timestamp": 1790450181.6183977, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing unconfirmed: cell phone'"}
+{"timestamp": 1790450181.7366405, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790450187.1288822, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790450436.4296193, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790450440.492703, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790450477.5569606, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790450490.4907637, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790450491.3403504, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790450514.9955575, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790450525.020062, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790450526.2026079, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching unconfirmed: remote'"}
+{"timestamp": 1790450528.2505872, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790450533.467099, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing unconfirmed: remote'"}
+{"timestamp": 1790450555.4520864, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790450566.6484194, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
+{"timestamp": 1790450567.3973596, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
+{"timestamp": 1790452293.255731, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790452306.1686046, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790452320.7002435, "step_id": "step_3", "status": "unexpected", "confidence": 0.9, "message": "Unexpected activity detected: 'placed unconfirmed: chair'"}
+{"timestamp": 1790452330.0185163, "step_id": "step_3", "status": "completed", "confidence": 0.9, "message": "Completed step: Set the sample container down securely at the workstation."}
+{"timestamp": 1790452368.5431435, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790452919.3724325, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790452939.520197, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790452963.561486, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790452991.5027523, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790453013.5115461, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790453016.6238296, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790453039.0091257, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790453425.8687317, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790453493.4078205, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790453578.7741706, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790453587.6230538, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790453587.7366705, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790453642.2784128, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790453666.5951574, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790453683.0115292, "step_id": "step_3", "status": "completed", "confidence": 0.9, "message": "Completed step: Set the sample container down securely at the workstation."}
+{"timestamp": 1790488674.6978276, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790488699.6277225, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790488712.0456052, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790488722.3763282, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790488736.7903442, "step_id": "step_3", "status": "completed", "confidence": 0.9, "message": "Completed step: Set the sample container down securely at the workstation."}

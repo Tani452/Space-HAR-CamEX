@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CamEX Monitoring Dashboard</title>
+    <!-- Added cache-buster ?v=5 to force browser to load new styles -->
+    <link rel="stylesheet" href="/style.css?v=5">
+</head>
+<body>
+    <header>
+        <h1>Space HAR Assistant <span class="badge">OFFLINE-FIRST</span></h1>
+        <div class="system-status">
+            <span class="status-item"><span class="status-dot green"></span> Camera: OK</span>
+            <span class="status-item"><span class="status-dot green"></span> Edge AI: OK</span>
+            <span class="status-item"><span class="status-dot green"></span> Protocol: Loaded</span>
+            <button id="manage-objects-btn" class="header-button">Manage Objects</button>
+            <button id="reset-btn" class="header-button">Restart Experiment</button>
+        </div>
+    </header>
+    
+    <div class="dashboard-container">
+        <!-- Main Column (Video & Progress) -->
+        <main class="main-column">
+            <!-- Progress Bar -->
+            <div class="progress-panel">
+                <h3>Experiment Progress</h3>
+                <div class="progress-bar-container" id="progress-container">
+                    <!-- Progress steps dynamically generated -->
+                </div>
+            </div>
+
+            <!-- Video Feed -->
+            <div class="video-panel">
+                <img src="/video_feed" alt="Live Camera Feed with AI Overlays">
+                <div class="video-overlay-status">LIVE</div>
+            </div>
+        </main>
+        
+        <!-- Right Sidebar (State & Logs) -->
+        <aside class="sidebar">
+            <div class="card current-step-card">
+                <h3>CURRENT STEP</h3>
+                <h2 id="current-step-title">Waiting for initialization...</h2>
+                <p id="current-step-desc" class="muted">--</p>
+            </div>
+            
+            <div class="card next-step-card">
+                <h3>NEXT EXPECTED</h3>
+                <p id="next-step-title" class="muted">--</p>
+            </div>
+            
+            <div class="card alerts-card" id="alerts-panel">
+                <h3>ALERTS FEED</h3>
+                <div id="alerts-feed" class="feed">
+                    <p class="muted">No active violations.</p>
+                </div>
+            </div>
+            
+            <div class="card log-card">
+                <h3>SYSTEM LOG</h3>
+                <div id="log-feed" class="feed log-text">
+                    <p class="muted">Loading logs...</p>
+                </div>
+            </div>
+        </aside>
+    </div>
+
+    <!-- Reference Objects Modal -->
+    <div id="ref-modal" class="modal">
+        <div class="modal-content card">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+                <h3 style="margin: 0;">Reference Objects Library</h3>
+                <button id="close-modal-btn" class="close-btn">&times;</button>
+            </div>
+            <div style="display: flex; gap: 16px; min-height: 0;">
+                <div style="flex: 1; display: flex; flex-direction: column;">
+                    <p class="muted" style="margin-top: 0; margin-bottom: 12px;">Train the AI to recognize your specific tools.</p>
+                    <form id="upload-ref-form" style="display: flex; flex-direction: column; gap: 10px;">
+                        <input type="text" id="ref-label" placeholder="Custom Label (e.g. bottle)" required style="padding: 10px; border-radius: 4px; background: var(--bg-dark); border: 1px solid var(--border-color); color: white;">
+                        <input type="file" id="ref-file" accept="image/*" required style="padding: 10px; border-radius: 4px; background: var(--bg-dark); border: 1px solid var(--border-color); color: white;">
+                        <button type="submit" style="background: var(--accent-blue); color: #fff; padding: 10px; border: none; border-radius: 4px; cursor: pointer; font-weight: bold; margin-top: 4px;">Upload & Train</button>
+                    </form>
+                </div>
+                <div style="flex: 1; display: flex; flex-direction: column;">
+                    <p class="muted" style="margin-top: 0; margin-bottom: 12px;">Active Objects</p>
+                    <ul id="ref-list" class="feed" style="margin: 0; padding: 0; list-style: none; max-height: 200px; overflow-y: auto;">
+                        <li class="muted">Loading...</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Added cache-buster here too -->
+    <script src="/app.js?v=5"></script>
+</body>
+</html>

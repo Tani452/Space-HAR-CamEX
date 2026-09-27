@@ -1,0 +1,315 @@
+:root {
+    --bg-dark: #0f1115;
+    --bg-panel: #1a1d24;
+    --bg-card: #232730;
+    --border-color: #2c313c;
+    --text-primary: #e0e6ed;
+    --text-muted: #8b95a5;
+    --accent-blue: #4da6ff;
+    --success-green: #3fb950;
+    --warning-orange: #d29922;
+    --error-red: #f85149;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--bg-dark);
+    color: var(--text-primary);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+header {
+    background-color: var(--bg-panel);
+    padding: 12px 24px;
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.4rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.badge {
+    font-size: 0.6rem;
+    background-color: var(--border-color);
+    padding: 3px 6px;
+    border-radius: 4px;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+
+.system-status {
+    display: flex;
+    gap: 20px;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+.status-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.status-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.status-dot.green { background-color: var(--success-green); box-shadow: 0 0 5px var(--success-green); }
+.status-dot.red { background-color: var(--error-red); box-shadow: 0 0 5px var(--error-red); }
+
+.header-button {
+    background-color: transparent;
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+    padding: 4px 12px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.2s;
+    margin-left: 12px;
+}
+.header-button:hover {
+    background-color: var(--bg-card);
+    border-color: var(--text-muted);
+}
+.header-button:active {
+    background-color: var(--border-color);
+}
+
+/* Modal CSS */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; 
+    z-index: 1000; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgba(0,0,0,0.7); 
+    backdrop-filter: blur(4px);
+    justify-content: center;
+    align-items: center;
+}
+
+.modal.show {
+    display: flex;
+}
+
+.modal-content {
+    background-color: var(--bg-panel);
+    width: 700px;
+    max-width: 90%;
+    padding: 24px;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+}
+
+.close-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+}
+.close-btn:hover {
+    color: var(--text-primary);
+}
+
+.dashboard-container {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+    padding: 16px;
+    gap: 16px;
+}
+
+.main-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    min-width: 0; /* allows flex children to shrink */
+}
+
+/* Progress Panel */
+.progress-panel {
+    background-color: var(--bg-panel);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 16px;
+}
+
+.progress-panel h3 {
+    margin: 0 0 12px 0;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.progress-bar-container {
+    display: flex;
+    gap: 8px;
+    height: 36px;
+}
+
+.progress-step {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    color: var(--text-muted);
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.progress-step.completed {
+    background-color: rgba(63, 185, 80, 0.15);
+    border-color: var(--success-green);
+    color: var(--success-green);
+}
+
+.progress-step.current {
+    background-color: rgba(77, 166, 255, 0.15);
+    border-color: var(--accent-blue);
+    color: var(--accent-blue);
+    box-shadow: 0 0 8px rgba(77, 166, 255, 0.3);
+}
+
+/* Video Panel */
+.video-panel {
+    flex: 1;
+    background-color: #000;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.video-panel img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.video-overlay-status {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    background-color: rgba(248, 81, 73, 0.8);
+    color: white;
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.6; }
+    100% { opacity: 1; }
+}
+
+/* Sidebar */
+.sidebar {
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    min-height: 0; /* Enforce flex bounds so overflow-y works */
+}
+
+.card {
+    background-color: var(--bg-panel);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    min-height: 0; /* Enforce flex bounds so overflow-y works */
+}
+
+.card h3 {
+    margin: 0 0 10px 0;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.card h2 {
+    margin: 0;
+    font-size: 1.3rem;
+    color: var(--accent-blue);
+}
+
+.muted {
+    color: var(--text-muted);
+    margin: 4px 0 0 0;
+    font-size: 0.9rem;
+}
+
+/* Specific Cards */
+.alerts-card {
+    border-color: var(--border-color);
+    transition: all 0.3s ease;
+}
+.alerts-card.active-violation {
+    border-color: var(--error-red);
+    background-color: rgba(248, 81, 73, 0.1);
+}
+
+.feed {
+    flex: 1;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.log-card {
+    flex: 1;
+}
+
+.log-text {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.85rem;
+}
+
+.log-entry {
+    padding: 4px 0;
+    border-bottom: 1px dashed var(--border-color);
+    word-break: break-word;
+}
+.log-time { color: var(--text-muted); }
+.log-status-completed { color: var(--success-green); font-weight: bold;}
+.log-status-error { color: var(--error-red); font-weight: bold;}
