@@ -11,7 +11,7 @@ Offline-first Human Activity Recognition system for validating astronaut experim
 
 2. Start the backend server:
    ```bash
-  	
+  	uvicorn backend.main:app --reload
    ```
 
 3. Open your browser and navigate to `http://localhost:8000`.
