@@ -810,3 +810,70 @@
 {"timestamp": 1790505133.8649142, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
 {"timestamp": 1790505193.31445, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
 {"timestamp": 1790505221.796162, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790510056.5660064, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790510084.73025, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790510094.0908554, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790510272.1754556, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790510278.2035472, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790510322.7024667, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790510339.8950825, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790510347.9143653, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790510378.5192306, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790510380.4445987, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790510382.0783293, "step_id": "step_2", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790510388.9084256, "step_id": "step_2", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790510395.8495426, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790510527.0566673, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790510680.525866, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790510680.6343858, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790510697.0378373, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790510710.569399, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790510717.6289835, "step_id": "step_2", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790510725.0171933, "step_id": "step_2", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790510731.1943343, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790510755.7997363, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790510760.4295106, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790510771.6737065, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790510779.9456847, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790510956.37095, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790510967.1798866, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790510984.4553866, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790510993.7967167, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790510999.0974274, "step_id": "step_2", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790511005.7298703, "step_id": "step_2", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790511014.12911, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790511024.316511, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790511025.4410708, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790511130.7542112, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790511499.9825437, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790511512.1603162, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790511528.9751534, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790511539.6177216, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790511545.2887743, "step_id": "step_2", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790511557.3404655, "step_id": "step_2", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790511562.6193652, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790512263.1229236, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790512264.1744974, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790512276.3167408, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790512556.1341202, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790512562.8168023, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790512580.1381626, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790512593.5607455, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790512604.1663568, "step_id": "step_2", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790512610.5531003, "step_id": "step_2", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790512619.9916813, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790512955.5930526, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790512963.0773351, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790512980.6011472, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790513022.9767704, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790513038.2046123, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790513040.8484697, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790513046.7481837, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790513052.3247612, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790513161.9985666, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790513173.4648564, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790513216.1512573, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790513233.6761453, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790513240.8550544, "step_id": "step_2", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790513253.86946, "step_id": "step_2", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790513263.6464565, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
