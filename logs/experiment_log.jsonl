@@ -1,144 +1,812 @@
-{"timestamp": 1790426743.2366219, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
-{"timestamp": 1790426743.573195, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
-{"timestamp": 1790426744.119304, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790426749.7356858, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790426751.4682128, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790426788.1326756, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790426824.4147725, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790426826.7830236, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790426838.622993, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790427286.3367274, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
-{"timestamp": 1790427286.542788, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
-{"timestamp": 1790427287.0799365, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790427287.2975297, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790427307.1132338, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching cup'"}
-{"timestamp": 1790427307.4471035, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking cup'"}
-{"timestamp": 1790427309.8108757, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching toothbrush'"}
-{"timestamp": 1790427310.024094, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing cup'"}
-{"timestamp": 1790427312.409823, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing toothbrush'"}
-{"timestamp": 1790427317.9119153, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing dining table'"}
-{"timestamp": 1790427320.6104658, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790427320.7153978, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790427321.2591438, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790427321.3612242, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790427322.7612865, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790427322.8768802, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790427403.1491425, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790427403.2649198, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
-{"timestamp": 1790427420.0472999, "step_id": "step_2", "status": "repeated", "confidence": 0.85, "message": "Repeated step detected: 'Touch the bottle'"}
-{"timestamp": 1790427420.1529026, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
-{"timestamp": 1790427423.5465431, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
-{"timestamp": 1790427424.1981459, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790427424.7297046, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing dining table'"}
-{"timestamp": 1790427488.240174, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790427599.5753675, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790427600.8592513, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
-{"timestamp": 1790427601.3923702, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790427601.613045, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
-{"timestamp": 1790427608.4751298, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790427639.3714268, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790427639.4730456, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790427642.7204995, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
-{"timestamp": 1790427642.9374096, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
-{"timestamp": 1790427647.8028355, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790427666.899865, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790427667.5382848, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790427673.5824337, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790427675.9328346, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790427676.149317, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790427680.2800663, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790427713.5645206, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790427713.6780522, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790427747.6848578, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790427750.2724898, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching airplane'"}
-{"timestamp": 1790427755.6514602, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790427756.0703275, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing airplane'"}
-{"timestamp": 1790428245.9607291, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching cell phone'"}
-{"timestamp": 1790428247.5758116, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching refrigerator'"}
-{"timestamp": 1790428248.224402, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing cell phone'"}
-{"timestamp": 1790428251.5579853, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking refrigerator'"}
-{"timestamp": 1790428252.0924087, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790428254.1220272, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing refrigerator'"}
-{"timestamp": 1790428257.3753448, "step_id": "step_2", "status": "repeated", "confidence": 0.85, "message": "Repeated step detected: 'Touch the bottle'"}
-{"timestamp": 1790428257.5903404, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790428505.7055945, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
-{"timestamp": 1790428505.9129152, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
-{"timestamp": 1790428511.7072399, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing dining table'"}
-{"timestamp": 1790428533.1055884, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790428533.6501455, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
-{"timestamp": 1790428534.2849839, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
-{"timestamp": 1790428537.07139, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790428537.7347698, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing dining table'"}
-{"timestamp": 1790428823.0005202, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790428826.133279, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790428830.5335572, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790428830.6469822, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790428910.32046, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790428910.6535196, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
-{"timestamp": 1790428910.857009, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching cup'"}
-{"timestamp": 1790428910.9719918, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
-{"timestamp": 1790428914.3223863, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking cup'"}
-{"timestamp": 1790428916.037771, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790428916.1409414, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing dining table'"}
-{"timestamp": 1790428916.3553047, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790428922.9326336, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
-{"timestamp": 1790428925.754043, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790428925.8675423, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching dining table'"}
-{"timestamp": 1790428925.9697995, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'picking dining table'"}
-{"timestamp": 1790428929.6004493, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching cup'"}
-{"timestamp": 1790428932.2834342, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790428932.8205848, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing cup'"}
-{"timestamp": 1790428933.7836952, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing dining table'"}
-{"timestamp": 1790428945.7219257, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
-{"timestamp": 1790428953.5338445, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790428955.5844715, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790429159.4429095, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790429160.9748847, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790429168.473394, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching remote'"}
-{"timestamp": 1790429170.723858, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing remote'"}
-{"timestamp": 1790429172.6721478, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790429220.0440192, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790429222.212363, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790429223.6974494, "step_id": "experiment_complete", "status": "completed", "confidence": 0.85, "message": "Experiment is already completed."}
-{"timestamp": 1790450175.1311545, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching unconfirmed: cell phone'"}
-{"timestamp": 1790450181.6183977, "step_id": "step_1", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing unconfirmed: cell phone'"}
-{"timestamp": 1790450181.7366405, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790450187.1288822, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790450436.4296193, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790450440.492703, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790450477.5569606, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
-{"timestamp": 1790450490.4907637, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790450491.3403504, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790450514.9955575, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
-{"timestamp": 1790450525.020062, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790450526.2026079, "step_id": "step_2", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'reaching unconfirmed: remote'"}
-{"timestamp": 1790450528.2505872, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790450533.467099, "step_id": "step_3", "status": "unexpected", "confidence": 0.85, "message": "Unexpected activity detected: 'releasing unconfirmed: remote'"}
-{"timestamp": 1790450555.4520864, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
-{"timestamp": 1790450566.6484194, "step_id": "step_1", "status": "completed", "confidence": 0.85, "message": "Completed step: Touch the bottle"}
-{"timestamp": 1790450567.3973596, "step_id": "step_2", "status": "completed", "confidence": 0.85, "message": "Completed step: Move the bottle slightly"}
-{"timestamp": 1790452293.255731, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
-{"timestamp": 1790452306.1686046, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
-{"timestamp": 1790452320.7002435, "step_id": "step_3", "status": "unexpected", "confidence": 0.9, "message": "Unexpected activity detected: 'placed unconfirmed: chair'"}
-{"timestamp": 1790452330.0185163, "step_id": "step_3", "status": "completed", "confidence": 0.9, "message": "Completed step: Set the sample container down securely at the workstation."}
-{"timestamp": 1790452368.5431435, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
-{"timestamp": 1790452919.3724325, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
-{"timestamp": 1790452939.520197, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
-{"timestamp": 1790452963.561486, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Set the sample container down securely at the workstation.'"}
-{"timestamp": 1790452991.5027523, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
-{"timestamp": 1790453013.5115461, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
-{"timestamp": 1790453016.6238296, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
-{"timestamp": 1790453039.0091257, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
-{"timestamp": 1790453425.8687317, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
-{"timestamp": 1790453493.4078205, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
-{"timestamp": 1790453578.7741706, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
-{"timestamp": 1790453587.6230538, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
-{"timestamp": 1790453587.7366705, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
-{"timestamp": 1790453642.2784128, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
-{"timestamp": 1790453666.5951574, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
-{"timestamp": 1790453683.0115292, "step_id": "step_3", "status": "completed", "confidence": 0.9, "message": "Completed step: Set the sample container down securely at the workstation."}
-{"timestamp": 1790488674.6978276, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
-{"timestamp": 1790488699.6277225, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
-{"timestamp": 1790488712.0456052, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
-{"timestamp": 1790488722.3763282, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
-{"timestamp": 1790488736.7903442, "step_id": "step_3", "status": "completed", "confidence": 0.9, "message": "Completed step: Set the sample container down securely at the workstation."}
+{"timestamp": 1790494421.4744072, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790494435.4859798, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790494516.6752298, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790494523.1234846, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790494523.312787, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790494961.3894897, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494963.1446452, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494964.3419719, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494966.257194, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494966.3634672, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494968.004473, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494968.866197, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494969.6463935, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494969.7619379, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494970.7333748, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494971.3957741, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494971.9325047, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494972.4819846, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494972.927129, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494973.5694647, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494974.365042, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494974.4775004, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494975.0171728, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494976.0017476, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494976.5477772, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494977.2018616, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494977.3119817, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494977.8815026, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494978.4306967, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494981.3158214, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790494982.0636945, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790494990.4124467, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790494990.9632254, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790494991.6083105, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790494992.1449852, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790494992.6760988, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790494993.1048243, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790494993.6463246, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790494994.2955844, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790494994.7392473, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790494995.2791984, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790494995.8298054, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790494996.3786304, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790494996.9124808, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790494997.3501866, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790494997.8892698, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790494998.4109404, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790494998.9490607, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790494999.4791458, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495000.026126, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495000.5447333, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495001.0632966, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495001.602251, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495002.2299316, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495002.5510254, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495003.6275895, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495004.0686262, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495004.6066687, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495005.1617975, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495005.6956847, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495006.2438085, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495006.6777186, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495007.2448227, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495007.7937906, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495008.2224262, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495008.794118, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495009.3272069, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495009.7663698, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495010.3129444, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495010.8619113, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495011.4096582, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495011.8518403, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495013.3942792, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495021.8410296, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495023.1421075, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495024.3283226, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495029.9919763, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495030.6594374, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495031.2078283, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495031.7567627, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495032.2017365, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495032.7378795, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495033.2748733, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495033.8418303, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495034.4937222, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495036.5893972, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495038.442011, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495038.9949732, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495039.523043, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495040.1727865, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495041.260568, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495041.8066742, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495042.3250961, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495042.8727484, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495043.409035, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495043.9063952, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495044.4352002, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495044.9725506, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495045.5234601, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495046.0569499, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495046.620907, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495047.1568286, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495047.8030062, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495048.239712, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495048.7898684, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495049.3408809, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495049.8726103, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495050.4234843, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495051.0681176, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495051.7060091, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495052.2527068, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495052.8063393, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495053.35529, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495053.901896, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495054.4567375, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495054.9913688, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495055.52486, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495056.0708358, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495056.6208584, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495057.1543171, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495057.6868823, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495058.122817, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495058.7530892, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495059.1911094, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495059.7380729, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495060.3057332, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495060.8542562, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495061.297175, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495061.839104, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495062.4859304, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495062.598932, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495063.1523142, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495063.804332, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495064.3592534, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495064.9048777, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495065.5651608, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495065.6762636, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495066.653018, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495067.1944325, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495067.8584254, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495067.9705582, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495068.5037427, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495069.0539532, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495069.6037614, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495070.270242, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495070.3736403, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495070.9155889, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495071.585979, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495071.7011533, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495072.4359431, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495072.5399082, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495072.703455, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790495073.1473298, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495075.420005, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495076.1875813, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495076.8393974, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495077.384558, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495078.0429296, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495078.8166208, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495079.7691956, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495080.32075, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495080.7509453, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495081.7350411, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495082.2832658, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495082.8290071, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495083.3665135, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495083.8050947, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495084.35074, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495084.8858533, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495085.5345318, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495085.6385515, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790495086.402198, "step_id": "step_2", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495086.5153334, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790495086.9639394, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495087.616974, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495088.0669186, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495088.7162094, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495088.978663, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790495089.2638087, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495089.9164412, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495090.4668674, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495091.0129085, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495091.5490687, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495091.6583412, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790495092.0976222, "step_id": "step_2", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495092.6361709, "step_id": "step_2", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495094.1678958, "step_id": "step_2", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495094.7319005, "step_id": "step_2", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495095.1633363, "step_id": "step_2", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495095.711547, "step_id": "step_2", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495096.363052, "step_id": "step_2", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495096.8978367, "step_id": "step_2", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495097.4466841, "step_id": "step_2", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495097.8896084, "step_id": "step_2", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495097.9969342, "step_id": "step_2", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495098.5506253, "step_id": "step_2", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495099.0990922, "step_id": "step_2", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495100.086149, "step_id": "step_2", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495105.7477336, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790495106.2978752, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495106.8480124, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495107.396325, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495107.9437807, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495108.4968402, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495109.029952, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495109.472699, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495109.898514, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495111.3142745, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495112.1483998, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495112.2551959, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495112.3656216, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495113.103942, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495113.9677777, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495114.0769083, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495114.913892, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495115.0160778, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495115.5397637, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790495116.126129, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495116.980014, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495117.0956237, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495117.7445667, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495117.8576975, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495118.2908022, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495118.9288924, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495120.231163, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495121.0907679, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495121.8472607, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495122.478073, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495123.2433364, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495123.867139, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495124.6287446, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495125.1922882, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495125.7292442, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495126.4925547, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495126.6025553, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495127.0278726, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495138.646242, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495139.2937064, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495139.841429, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495140.2772186, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495140.8279967, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495141.3786209, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495141.9269536, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495142.4786162, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495143.0288064, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495143.5796194, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495144.1264575, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495144.6753209, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495146.2105577, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495146.7792187, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790495149.929943, "step_id": "step_2", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495150.5581396, "step_id": "step_2", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495150.668652, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790495151.7604325, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495152.3088727, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495152.8678021, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495153.4170916, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495154.0860956, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495154.6417956, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495155.1794834, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495155.7257214, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495156.3757653, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495156.9233682, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495157.4595826, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495158.008448, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495158.5584545, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495159.3083036, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495159.841909, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495160.8548572, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495161.4113715, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495161.9553356, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495162.5133367, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495163.159654, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495163.7887833, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495164.3397102, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495164.9707868, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495165.5210857, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495166.0393875, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495166.5735142, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495167.222884, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495167.3365822, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495167.4412396, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790495167.97459, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495168.5220037, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495169.0618727, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495169.8236394, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495169.9297786, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495170.4731221, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495171.0222802, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495171.5556722, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495172.5411818, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495173.238212, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790495173.3549826, "step_id": "step_3", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Set the sample container down securely at the workstation.'"}
+{"timestamp": 1790495637.1114926, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495688.9399483, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495690.2414625, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495691.4508696, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495692.652997, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495693.8208528, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495695.0221734, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495696.2220201, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495697.3593795, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495698.5355153, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495699.8385613, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495701.5631523, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495703.178298, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495704.5943708, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790495706.1894803, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498032.0141973, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790498040.7810726, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790498043.4343317, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790498045.4460034, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790498047.2281942, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790498049.2444036, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790498050.846259, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790498090.9192395, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790498097.9068403, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498100.0474217, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498102.3079057, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498104.4550412, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498106.054319, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498107.1380415, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498108.2138762, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498127.603184, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790498128.7965655, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790498135.101315, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498136.2677372, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498137.3371758, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498138.425156, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498139.6003296, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498140.666694, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498141.8321588, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498142.945818, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498145.1773963, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498147.5651433, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498148.732267, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498149.9000554, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498150.9634187, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790498152.1503932, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790498164.3068895, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790498169.2093313, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498171.8468482, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498173.0141225, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498174.1796472, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498175.2404563, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498176.4083533, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498177.480128, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498178.6437542, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498179.6965842, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498180.8754425, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498181.9442997, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498183.1141968, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498184.2781253, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498185.4417136, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498186.6134086, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498187.7808368, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498188.9430387, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498190.1065593, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498191.1651487, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498192.6484017, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498193.8088107, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498194.975213, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498196.040129, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498197.528306, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498198.6939957, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498201.3616285, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498203.6918035, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498206.027979, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498207.8595119, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498212.104435, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498212.8541982, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498215.30731, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498216.1570165, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498218.8402228, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498221.210627, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498222.4232326, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498223.6057642, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498224.7777565, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498225.9480839, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498227.1261873, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498228.3160717, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498229.586735, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498230.7755768, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498232.03889, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498233.2030694, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498234.376364, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790498235.4635003, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790499336.3029633, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499337.3797486, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499338.4671183, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499339.7595603, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499340.9567065, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499342.0273569, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499342.8435163, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499345.1239502, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499348.1710176, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499349.2455168, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499367.8917387, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499369.0749607, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499370.1745722, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499371.356563, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499372.5530117, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499373.7568586, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499374.9566195, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499376.14007, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499377.2167108, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499379.0704134, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499391.233785, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790499392.4521885, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790499393.8688762, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790499395.0557175, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790499395.9181154, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790499396.9937155, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499398.0814643, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499399.2675018, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499400.348497, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499401.551591, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499402.753321, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499403.8368099, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499404.9374142, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499406.501209, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499406.6116896, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790499408.2479985, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499408.3589237, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790499408.472415, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790499408.5855231, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790499411.635457, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790499411.7455878, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790499413.1520681, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790499415.0661829, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790499415.170609, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790499415.5657167, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790499416.7027178, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499416.8089256, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790499418.2546318, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499418.3569608, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790499419.4363153, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499420.517344, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499421.7109418, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499422.7835288, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499423.9611485, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499425.032526, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499427.2891746, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499428.4626024, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499429.5554652, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499430.413749, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499435.0825198, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499437.480447, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499443.3172944, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790499444.5171804, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790499449.697136, "step_id": "step_2", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790499452.504048, "step_id": "step_2", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790499453.8014395, "step_id": "step_2", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790499456.5973852, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790499457.4108496, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790499459.996607, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790499460.759507, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790499463.3644142, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790499464.5453887, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790499465.6135223, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790499466.7937448, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790499467.975569, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790499469.4807825, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790499470.6769354, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500417.122375, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500433.589448, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500438.7688978, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500441.8038006, "step_id": "step_1", "status": "unexpected", "confidence": 0.9, "message": "Unexpected activity detected: 'placed bottle'"}
+{"timestamp": 1790500449.368224, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500449.916537, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500451.10307, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500451.7681172, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500452.2054708, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500452.7541258, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500453.0842516, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500453.9827936, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790500456.448683, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500456.5508285, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790500456.6582563, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790500457.520152, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500458.6144428, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500459.1546414, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500459.704589, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500460.0314176, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500460.6985524, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500461.4660041, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500461.9157486, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500462.7009158, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500464.3194432, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500464.85488, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500465.4013336, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500466.152134, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500466.8016193, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500467.2347934, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500468.4320583, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500468.9840145, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500471.3702767, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500472.015583, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500472.6704047, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500473.516285, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500473.6305273, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500473.749199, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500474.9355083, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790500475.4589846, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500475.56139, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500476.446019, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500476.5482693, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500477.2114406, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500477.5095255, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790500478.3442018, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500478.4479504, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500479.334176, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500479.446235, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500480.0823653, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500481.0726, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500481.599808, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500482.8845842, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500483.2157898, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500483.8511662, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500484.4987257, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500484.6124325, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500485.3672645, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500485.4793987, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500485.8989148, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500490.0972264, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500491.7432632, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500491.8579962, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500491.960917, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500494.4655075, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790500494.5788682, "step_id": "step_2", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790500495.2303188, "step_id": "step_2", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500498.1814957, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790500499.5957208, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790500501.897014, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790500503.4086916, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500503.9488683, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500504.6976492, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500506.9616404, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500507.713047, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500508.1473494, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500510.6092567, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790500510.8452444, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500511.0275924, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500511.4620364, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500513.0898275, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500513.7293868, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500514.1791646, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500515.4941885, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500515.6081665, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500515.92321, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500517.5577884, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790500521.334022, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790500526.4967837, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790500526.8776853, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500527.7598474, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500528.3925104, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500529.059098, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500529.1723318, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500529.722257, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790500531.0108232, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790500532.7443564, "step_id": "step_3", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790500535.5124085, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500535.6212406, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500536.2577534, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500537.790418, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500539.2051759, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790500540.3587494, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500556.2903218, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500557.1809285, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500561.3039644, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500561.4206161, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500561.5354822, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500562.1837907, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500562.2869332, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500562.8218675, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500563.4712348, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500564.1219747, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500564.654119, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500565.2016478, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500566.3855195, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500569.4016163, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500570.1740136, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500572.5372756, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500572.6466763, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500573.9367123, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500574.7042696, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500575.7028682, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500576.133753, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500577.3029292, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500577.854479, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500578.51861, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500579.0884144, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500579.7193096, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500580.2620547, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500580.9021933, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500591.3863277, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500634.7665048, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500636.8560185, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500639.442428, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500644.6419604, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500645.7439575, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500649.2512617, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500651.062941, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500653.8985808, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500654.0069447, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500659.1429176, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500660.5328853, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500662.2877133, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500665.7807071, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500668.2850287, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500669.8069293, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500671.3216286, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500671.4377756, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500672.6238425, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500673.7580793, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500674.4268787, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500675.0575426, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500676.4430978, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500676.5578966, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500677.219556, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500677.322405, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500677.9740403, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500678.0870528, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500678.8701866, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500678.972819, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500679.518139, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500680.4869783, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500680.602646, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500681.1739817, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500681.287885, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500681.739285, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500682.3925023, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500683.0515735, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500683.1680663, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500684.0719528, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500684.1868508, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500684.856069, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500684.9723697, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500685.4238317, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500686.078107, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500686.6078992, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500687.6022358, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500688.2385824, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500688.890825, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500689.6725247, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500689.7860847, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500690.5376306, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500690.651989, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500691.334525, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500691.4559731, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500692.2183485, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500692.3246813, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500693.4189074, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500693.5304375, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500694.2294788, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500694.3308125, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500701.7194834, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500701.8356924, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500702.4721894, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500703.014379, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500703.4378774, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500705.5213575, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500705.634384, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500705.9894407, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500708.5643232, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500709.534822, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500711.1775825, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790500713.7659268, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790500722.3059804, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500722.9523747, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500723.299268, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500725.0037262, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500725.4318042, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500727.7343185, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790500728.1141906, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500728.2304995, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500728.8991578, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500729.4490736, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500731.2170365, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500732.7552335, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500732.8632483, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500733.3821352, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500734.5833747, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500735.6630316, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500735.7800422, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500736.6158593, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500736.7312198, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500737.05545, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500741.8309996, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500745.0149093, "step_id": "step_1", "status": "unexpected", "confidence": 0.9, "message": "Unexpected activity detected: 'placed bottle'"}
+{"timestamp": 1790500749.5655358, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500752.9158235, "step_id": "step_1", "status": "unexpected", "confidence": 0.9, "message": "Unexpected activity detected: 'placed bottle'"}
+{"timestamp": 1790500756.7142541, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500757.1367228, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500758.348097, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500759.433519, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500760.060176, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500760.4920366, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500761.3633003, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500761.7948895, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500763.74829, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500764.2954614, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500764.8387394, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500765.494548, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500765.927014, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500766.7955306, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500767.878136, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500768.4296472, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500769.092202, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500769.7408755, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500769.8567262, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500770.324804, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790500770.8789916, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790500772.6177685, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500772.7227762, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500773.6775072, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500774.2106009, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790500774.8554084, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790500775.496537, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500776.9011753, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500777.8775578, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500777.9924555, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500778.1320188, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500778.4578621, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500780.7761745, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500781.8437574, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500782.5096116, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500783.828062, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500784.3769844, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500785.009129, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500785.5423958, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500785.9830277, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500787.2780838, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500787.8595557, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500788.5266478, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500791.7768772, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500792.661417, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500794.3917482, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500794.9223394, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500796.6751962, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500797.4243095, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500798.2938488, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500798.4015443, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500799.170387, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500799.273303, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500800.0287178, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790500800.1403456, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790500801.7077947, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790501044.641941, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790501047.9597743, "step_id": "step_1", "status": "unexpected", "confidence": 0.9, "message": "Unexpected activity detected: 'placed bottle'"}
+{"timestamp": 1790501049.6070888, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790501051.503333, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790501076.9231734, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790501081.8200977, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790501089.5028439, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790501090.229584, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790501090.4958582, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790501110.638623, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790501121.217363, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790501125.1209013, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790501127.3927004, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790501137.4134727, "step_id": "step_1", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790501394.0778363, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790501396.319724, "step_id": "step_2", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790501396.9761362, "step_id": "step_2", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790501397.4107904, "step_id": "step_2", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790501401.196918, "step_id": "step_2", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790501418.9936798, "step_id": "step_2", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790501424.4239373, "step_id": "step_2", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790501431.628328, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790501442.8112414, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790501453.2862282, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790501459.6171026, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790501468.7506063, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790501474.6890512, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790501477.9015949, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790501484.626257, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790501489.7689402, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790501493.2172537, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790501520.8852382, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790501526.050158, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790501529.3285468, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790504651.3582885, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790504656.523807, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790504822.6293683, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790504831.5664327, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790504895.8853538, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790504901.9942665, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790504902.101707, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790504907.25182, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790504909.0709686, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790504912.9698076, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790504918.0237038, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790504918.1349504, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790504926.376892, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790504928.9141033, "step_id": "step_1", "status": "out_of_sequence", "confidence": 0.9, "message": "Out of sequence: Jumped to 'Pick up and return the sample container back to the storage rack.'"}
+{"timestamp": 1790504933.510725, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790504939.3021555, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790504944.0540698, "step_id": "step_2", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790504956.7677805, "step_id": "step_2", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790504961.863851, "step_id": "step_2", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790504965.995736, "step_id": "step_2", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790504970.5010276, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790505058.5995226, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790505067.7143974, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790505115.3744972, "step_id": "system", "status": "completed", "confidence": 1.0, "message": "Experiment reset."}
+{"timestamp": 1790505121.6641781, "step_id": "step_1", "status": "completed", "confidence": 0.9, "message": "Completed step: Retrieve the sample container from the storage rack."}
+{"timestamp": 1790505124.5424995, "step_id": "step_2", "status": "skipped", "confidence": 0.9, "message": "Skipped step: You missed 'Transfer the sample container into the workstation zone.'"}
+{"timestamp": 1790505130.2439163, "step_id": "step_2", "status": "repeated", "confidence": 0.9, "message": "Repeated step detected: 'Retrieve the sample container from the storage rack.'"}
+{"timestamp": 1790505133.8649142, "step_id": "step_2", "status": "completed", "confidence": 0.9, "message": "Completed step: Transfer the sample container into the workstation zone."}
+{"timestamp": 1790505193.31445, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}
+{"timestamp": 1790505221.796162, "step_id": "experiment_complete", "status": "completed", "confidence": 0.9, "message": "Experiment is already completed."}

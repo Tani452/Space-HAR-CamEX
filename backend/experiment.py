@@ -17,11 +17,6 @@ SAMPLE_EXPERIMENT = {
         },
         {
             "id": "step_3",
-            "description": "Set the sample container down securely at the workstation.",
-            "expected_activity": "placed bottle"
-        },
-        {
-            "id": "step_4",
             "description": "Pick up and return the sample container back to the storage rack.",
             "expected_activity": "returned bottle"
         }

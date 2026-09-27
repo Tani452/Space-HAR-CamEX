@@ -47,8 +47,9 @@ class ObjectDetector:
                     crop_pil = Image.fromarray(crop_rgb)
                     
                     # Compute embedding and check for custom match
+                    # Increased threshold from 0.75 to 0.88 to filter out false positives like tables
                     emb = compute_embedding(crop_pil)
-                    custom_label, sim_score = match_embedding(emb, threshold=0.75)
+                    custom_label, sim_score = match_embedding(emb, threshold=0.88)
                 else:
                     custom_label, sim_score = None, 0.0
                 

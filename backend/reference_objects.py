@@ -6,6 +6,11 @@ import open_clip
 from PIL import Image
 import io
 import shutil
+import numpy as np
+from ultralytics import YOLO
+
+# Load YOLO model for auto-cropping reference images
+yolo_crop_model = YOLO("yolov8n.pt")
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REF_DIR = os.path.join(BASE_DIR, "reference_objects")
@@ -40,7 +45,7 @@ def compute_embedding(image_pil):
     return image_features.cpu()
 
 def add_reference_image(label: str, image_bytes: bytes):
-    """Saves a reference image and updates the embedding store."""
+    """Saves a reference image, auto-crops the main object to remove background, and updates the store."""
     label_dir = os.path.join(REF_DIR, label)
     if not os.path.exists(label_dir):
         os.makedirs(label_dir)
@@ -49,6 +54,30 @@ def add_reference_image(label: str, image_bytes: bytes):
     image_path = os.path.join(label_dir, f"{num_existing}.jpg")
     
     image_pil = Image.open(io.BytesIO(image_bytes)).convert("RGB")
+    
+    # Auto-crop logic using YOLO to remove background like tables
+    cv_img = np.array(image_pil)
+    results = yolo_crop_model(cv_img, verbose=False)
+    
+    best_box = None
+    best_conf = 0.0
+    
+    if len(results[0].boxes) > 0:
+        for box in results[0].boxes:
+            conf = float(box.conf[0].item())
+            if conf > best_conf:
+                best_conf = conf
+                best_box = map(int, box.xyxy[0].cpu().numpy())
+                
+    if best_box is not None:
+        x1, y1, x2, y2 = best_box
+        # Add a tiny 10px margin around the crop
+        h, w, _ = cv_img.shape
+        x1, y1 = max(0, x1 - 10), max(0, y1 - 10)
+        x2, y2 = min(w, x2 + 10), min(h, y2 + 10)
+        image_pil = image_pil.crop((x1, y1, x2, y2))
+        print(f"Auto-cropped reference image for '{label}' to remove background noise.")
+
     image_pil.save(image_path)
     
     emb = compute_embedding(image_pil)
@@ -75,7 +104,7 @@ def delete_reference(label: str):
     if os.path.exists(label_dir):
         shutil.rmtree(label_dir)
 
-def match_embedding(crop_embedding, threshold=0.75):
+def match_embedding(crop_embedding, threshold=0.88):
     """
     Compares a target embedding against all reference embeddings using cosine similarity.
     Returns a tuple (best_matching_label, similarity_score).

@@ -6,7 +6,8 @@ from collections import deque
 activity_queue = deque(maxlen=100)
 
 class ActivityRecognizer:
-    def __init__(self, contact_threshold=250.0, placed_frames_threshold=10):
+    def __init__(self, contact_threshold=100.0, placed_frames_threshold=10):
+        # 100.0 pixels is a much tighter threshold for a 640x480 frame
         self.contact_threshold = contact_threshold
         self.placed_frames_threshold = placed_frames_threshold
         
@@ -69,25 +70,14 @@ class ActivityRecognizer:
                 continue
                 
             # 1. Retrieved
-            if last_zone == "storage" and current_zone != "storage" and in_hand:
+            if last_zone == "storage" and current_zone != "storage":
                 self.emit_event("retrieved", cls)
                 
             # 2. Transferred
             if last_zone != "workstation" and current_zone == "workstation":
                 self.emit_event("transferred", cls)
                 
-            # 3. Placed
-            if current_zone == "workstation":
-                if not in_hand:
-                    state_info["placed_frames"] += 1
-                    if state_info["placed_frames"] == self.placed_frames_threshold:
-                        self.emit_event("placed", cls)
-                else:
-                    state_info["placed_frames"] = 0
-            else:
-                state_info["placed_frames"] = 0
-                
-            # 4. Returned
+            # 3. Returned
             if last_zone != "storage" and current_zone == "storage":
                 self.emit_event("returned", cls)
                 
